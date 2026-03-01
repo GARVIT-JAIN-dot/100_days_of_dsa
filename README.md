@@ -23,3 +23,24 @@ This repository contains my daily Data Structures and Algorithms practice implem
 
 To build strong fundamentals in Data Structures and Algorithms.
 
+
+
+\##Topic covered:
+
+1. Array insertion
+2. Array deletion
+3. linear search and comparison counting
+4. Two-pointer approach
+5. Merge sorted array
+6. Remove duplicates
+7. recursive Fibonacci
+8. recursion power
+9. mirror string
+10. palindrome check
+11. Matrix Addition
+12. Symmetric Matrix
+13. Boundary to Center Matrix Walk
+14. Check Identity Matrix
+15. Diagonal Sum of Matrix
+16. Frequency counter for Array
+17. Maximum and Minimum Element in Array

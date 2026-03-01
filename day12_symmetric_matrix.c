@@ -70,7 +70,10 @@ int main () {
         for (int j=0;j<n;j++){
           if (matrix[i][j] != matrix[j][i]) {
                 symmetric = 0;
+                break;
           }
+          if(!symmetric)
+            break;
         }
      }
 
