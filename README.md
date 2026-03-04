@@ -45,3 +45,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 16. Frequency counter for Array
 17. Maximum and Minimum Element in Array
 18. Rotate array by k position
+19. Pair Sum Closest to Zero
+20. Count Subarrays with Sum Zero

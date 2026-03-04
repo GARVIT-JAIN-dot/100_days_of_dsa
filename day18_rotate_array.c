@@ -23,7 +23,7 @@ int main () {
      printf("Enter the size of array:");
      scanf("%d",&n);
      int array [n];
-     printf("Enter the element for matrix:");
+     printf("Enter the element for array:");
 
     
      for (int i=0;i<n;i++){
