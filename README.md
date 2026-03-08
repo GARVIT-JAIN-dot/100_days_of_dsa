@@ -47,3 +47,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 18. Rotate array by k position
 19. Pair Sum Closest to Zero
 20. Count Subarrays with Sum Zero
+21. Traverse Singly Linked List
+22. 
