@@ -54,4 +54,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 25. count occurrence of element in linked list
 26. Create and Traverse doubly linked list
 27. Find the intersection point from two linked list
+28. Create and traverse circular linked list
 
